@@ -18,7 +18,7 @@ Geojson.io is web-based tool that can, create, and edit Geojson files
 
 ## [BBoxfinder](http://bboxfinder.com/)
 BBoxfinder outputs the bounding box coordinates of a selected area of interest
-![bbox](https://github.com/rachemelendres/map-tools/tree/main/bbox/bbox.png)
+![bbox](https://github.com/rachemelendres/map-tools/blob/main/bbox/bbox.png)
 
 ## [Gimme Geodata](http://hanshack.com/geotools/gimmegeodata/)
 Gimme Geodata gives quick access to OpenStreetMap boundaries and other areas
