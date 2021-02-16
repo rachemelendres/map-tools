@@ -27,6 +27,7 @@ Gimme Geodata gives quick access to OpenStreetMap boundaries and other areas
 ## Others
 * [Geoboundaries](https://www.geoboundaries.org/) (database for global political boundaries)
 * [ColorBrewer](https://colorbrewer2.org/) (diagnostic tool for selecting map color palettes)
+
 ![colorbrewer](https://github.com/rachemelendres/map-tools/blob/main/colorbrewer/colorbrewer.png)
  
  
